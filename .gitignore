@@ -1,0 +1,17 @@
+# MATLAB / Simulink generated files
+*.asv
+*.m~
+*.mex*
+*.mdl.r20*
+*.slxc
+*.autosave
+slprj/
+sccprj/
+*.log
+*.user.mat
+*.mat
+*.fig
+
+# Backup and system files
+.DS_Store
+Thumbs.db
